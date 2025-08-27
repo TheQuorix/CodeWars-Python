@@ -14,4 +14,3 @@ def reverseWords(str):
 s = "The greatest victory is that which requires no battle"
 print (reverse_words(s))
 
-
